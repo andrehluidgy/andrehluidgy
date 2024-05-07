@@ -1,7 +1,7 @@
 # read.me
 **README**
 
-Olá! 👋 Sou Andreh Luidgy, um entusiasta da tecnologia apaixonado por desenvolvimento web e telecomunicações. Este é o meu perfil do GitHub, onde compartilho projetos, estudos e colaborações relacionadas ao mundo da programação e telecomunicações.
+Olá! 👋🏾 Sou Andreh Luidgy, um entusiasta da tecnologia apaixonado por desenvolvimento web e telecomunicações. Este é o meu perfil do GitHub, onde compartilho projetos, estudos e colaborações relacionadas ao mundo da programação e telecomunicações.
 
 ### Sobre Mim
 
